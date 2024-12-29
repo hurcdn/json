@@ -1,10 +1,11 @@
 {
     "status": 1,
     "msg": "success",
-    "result": {
+    "data": {
+      "type": 1,
       "icon": "https://c1.stcfile.com/sms/281373/1735454114_48408429508253047397?imageView2/2/h/200",
       "title": "国学资料+学习笔记",
       "description": "抖音官方认证",
-      "target_domain": "https://dw21.zsort.cn/tiktok/3535491098/y4r6Cy?storage_id=5619481ab153995152fae9aca3e3413a"
+      "gourl": "https://dw21.zsort.cn/tiktok/3535491098/y4r6Cy?storage_id=5619481ab153995152fae9aca3e3413a"
     }
   }
